@@ -1,0 +1,18 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Set up Music Daemon",
+                "description": "Configure your Music Daemon integration."
+            }
+        }
+    },
+    "services": {
+        "play_music": {
+            "description": "Play music on a specified device."
+        },
+        "stop_music": {
+            "description": "Stop music on a specified device."
+        }
+    }
+}
