@@ -1,0 +1,9 @@
+{
+    "domain": "music_daemon",
+    "name": "Music Daemon",
+    "version": "1.0.0",
+    "documentation": "https://github.com/yourusername/music-daemon",
+    "dependencies": [],
+    "codeowners": ["@yourusername"],
+    "requirements": ["pychromecast", "soco", "spotipy", "pyairplay", "pylinkplay"]
+}
