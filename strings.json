@@ -1,0 +1,11 @@
+{
+    "title": "Music Daemon",
+    "config": {
+        "step": {
+            "user": {
+                "title": "Set up Music Daemon",
+                "description": "Configure your Music Daemon integration."
+            }
+        }
+    }
+}
